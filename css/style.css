@@ -1,3 +1,6 @@
+body{
+    background-image: url();
+}
 h1 {
     color:cornflowerblue;
     font-style: italic; /*kiểu chữ */
@@ -6,3 +9,9 @@ h1 {
     text-align: center; /*Căn dòng*/
     font-size: 20px; /*Cỡ chữ*/
 }
+li.opacity{
+    opacity: 40%;/*Độ mờ đục*/
+}
+/* li.opacity1{
+    opacity: 0.4; Độ mờ đục
+} */
